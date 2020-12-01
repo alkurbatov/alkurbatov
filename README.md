@@ -1,8 +1,10 @@
-[<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="150" height="35">](https://www.buymeacoffee.com/alkurbatov) 
+[<img align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="150" height="35">](https://www.buymeacoffee.com/alkurbatov) 
 ### About me
 Programmer, linuxoid, cat's owner, Acronis employee, main developer of [cpp-sc2](https://github.com/cpp-sc2). Some of my contributions are work related, but most of them are for fun.  
-I’m looking to collaborate on StarCraft II C++ API and bot development.  
 To find out more about me, check [my personal website](https://alkurbatov.github.io).  
+
+### 
+I’m looking to collaborate on StarCraft II C++ API and bot development.  
 Open to exciting job offers >> [CV](https://alkurbatov.github.io/cv/).  
 
 ### Statistics
