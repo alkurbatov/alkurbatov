@@ -1,5 +1,3 @@
-[<img align="right" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="150" height="35">](https://www.buymeacoffee.com/alkurbatov) 
-
 ### About me
 Programmer, linuxoid, cat's owner, Acronis employee, main developer of [cpp-sc2](https://github.com/cpp-sc2). Some of my contributions are work related, but most of them are for fun.  
 To find out more about me, check [my personal website](https://alkurbatov.github.io).  
@@ -13,7 +11,7 @@ Open to exciting job offers >> [CV](https://alkurbatov.github.io/cv/).
 
 ### Connect with me:
 [<img align="left" alt="Alexander Kurbatov  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Alexander Kurbatov  | Buy me a coffee" width="150px" height="35px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" />][buymeacoffee]
+[<img align="left" alt="Alexander Kurbatov  | Buy me a coffee" width="130px" height="24px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" />][buymeacoffee]
 
 <br />
 <br />
