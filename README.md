@@ -11,9 +11,8 @@ Open to exciting job offers >> [CV](https://alkurbatov.github.io/cv/).
 
 ### Connect with me:
 [<img align="left" alt="Alexander Kurbatov  | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Alexander Kurbatov  | Buy me a coffee" width="130px" height="24px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" />][buymeacoffee]
+[<img align="left" alt="Alexander Kurbatov  | Buy me a coffee" width="130px" height="26px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" />][buymeacoffee]
 
-<br />
 <br />
 
 <details>
