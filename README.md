@@ -5,7 +5,7 @@ To find out more about me, check [my personal website](https://alkurbatov.github
 <br />
 
 I’m looking to collaborate on StarCraft II C++ API and bot development.  
-Open to exciting job offers >> [CV](https://alkurbatov.github.io/cv/).  
+Open to exciting job offers especially related to AI and medicine. >> [CV](https://alkurbatov.github.io/cv/).  
 
 <br />
 
