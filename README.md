@@ -5,7 +5,7 @@ To find out more about me, check [my personal website](https://alkurbatov.github
 <br />
 
 I’m looking to collaborate on StarCraft II C++/Golang API and bot development.  
-Open to exciting job offers related to software development with Golang or Python in various technical fields. >> [CV](https://alkurbatov.github.io/cv/en).  
+Open to exciting job offers related to software development in robotics, game AIs and medicine. >> [CV](https://alkurbatov.github.io/cv/en).  
 
 #### Connect with me:
 [<img align="left" alt="Alexander Kurbatov  | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
