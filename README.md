@@ -5,7 +5,6 @@
 
 <br />
 
-[<img align="left" alt="Alexander Kurbatov  | Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
 [<img align="left" alt="Alexander Kurbatov  | LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />][leetcode]
 [<img align="left" alt="Alexander Kurbatov  | CodingGame" src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" />][codinggame]
 
