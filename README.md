@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alkurbatov
 - 👀 I’m interested in golang, c++ and game bots programming
-- 💞️ I’m looking to collaborate on intrested projects
-- 📫 U can reach me at telgram - @Grok123
+- 💞️ I’m looking to collaborate on interesting and ambitious projects
+- 📫 You can reach me at telegram - @Grok123
 
 <br />
 
